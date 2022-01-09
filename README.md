@@ -1,4 +1,4 @@
-# Amazon-Fine-Food-Reviews-Solutions [Link]('https://www.kaggle.com/snap/amazon-fine-food-reviews')
+# Amazon-Fine-Food-Reviews-Solutions 
 
 Context
 
@@ -16,6 +16,7 @@ Data includes:
     74,258 products
     260 users with > 50 reviews
 
+[Link](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 ## Usage
 
 Open [model_name].ipynb for the respective solution notebook.
